@@ -1,1 +1,3 @@
 newest file added to the repo
+This file projects was cloned to Intellij
+on 8/26 and I learned pretty well.
